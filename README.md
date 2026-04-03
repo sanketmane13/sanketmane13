@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sanket Mane
 
-🚀 Full-Stack Developer | MERN & Next.js
+🚀 Full-Stack Developer | Python, MERN & Next.js
 💡 Passionate about building scalable SaaS applications & modern web experiences
 
 ---
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-* 💼 Full-stack developer specializing in **MERN & Next.js**
+* 💼 Full-stack developer specializing in **Python, MERN & Next.js**
 * ⚡ Experience in building **SaaS platforms, REST APIs & secure authentication systems**
 * 🔥 Focused on **performance optimization, scalability & clean UI/UX**
 * 🌱 Currently exploring **advanced backend & system design**
@@ -90,17 +90,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
 * 📧 Email: [sanketmane0407@gmail.com](mailto:sanketmane0407@gmail.com)
-* 💼 LinkedIn: (Add your link)
-* 🌐 Portfolio: (Add your link)
+* 💼 LinkedIn: https://www.linkedin.com/in/sanket-mane-94b9113aa/
+* 🌐 Portfolio: https://sanketmane.vercel.app/
 
 ---
 
