@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Sanket
 
-<!--
-**trendingzone15-arch/trendingzone15-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Working on Next.js & MongoDB  
+🌱 Currently learning TypeScript & Backend  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- JavaScript / TypeScript
+- Next.js / React
+- Node.js / Express
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: your@email.com
+- LinkedIn: your-link
+
+## ⚡ Fun Fact
+I love building travel apps 🌍
