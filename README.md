@@ -5,10 +5,6 @@
 
 ---
 
-## ⚠️ Note
-
-> This is my **new GitHub account**. My previous account was lost due to a small issue.
-> I am actively rebuilding and pushing all my work here 🚀
 
 ---
 
